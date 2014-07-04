@@ -1,0 +1,22 @@
+## Interface: 50400
+## Author: Drae
+## Title: draeFramesRaid
+## Version: 2.0
+## RequiredDeps: draeUI
+## OptionalDeps: SharedMedia
+## X-Child-Of: draeUI
+
+libs\libs.xml
+
+init.lua
+
+config.defaults.lua
+
+frames\tags.lua
+frames\events.lua
+
+frames\units\partyandraid.lua
+
+statuses\embed.xml
+config\indicators\embed.xml
+config\raiddebuffs\embed.xml
