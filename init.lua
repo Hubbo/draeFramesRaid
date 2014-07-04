@@ -250,7 +250,6 @@ UF.OnEnable = function(self)
 	-- Create raid headers
 	for i = 1, NUM_RAID_GROUPS do
 		local header = oUF:SpawnHeader("DraeRaid"..i, nil, visibility,
-			"showSolo", true,
 			"showPlayer", true,
 			"showRaid", true,
 
