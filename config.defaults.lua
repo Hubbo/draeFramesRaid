@@ -46,10 +46,10 @@ C["raidframes"] = {
 	-- specify a position for a total number of groups the position of the last highest
 	-- will be used
 	position = {
-		[1] = { "BOTTOMLEFT", UIParent, "CENTER", -136, -220 },
-		[2] = { "BOTTOMLEFT", UIParent, "CENTER", -136, -220 },
-		[3] = { "BOTTOMLEFT", UIParent, "CENTER", -136, -220 },
-		[5] = { "BOTTOMLEFT", UIParent, "CENTER", -880, -220 },
+		[1] = { "BOTTOMLEFT", UIParent, "CENTER", -136, -350 },
+		[2] = { "BOTTOMLEFT", UIParent, "CENTER", -136, -370 },
+		[3] = { "BOTTOMLEFT", UIParent, "CENTER", -136, -420 },
+		[5] = { "BOTTOMLEFT", UIParent, "CENTER", -880, -150 },
 	},
 
 	-- Button parameters
